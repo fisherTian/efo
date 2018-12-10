@@ -4,7 +4,7 @@
     },
     "global": {
         "uploadPath": {
-            "windows": "upload",
+            "windows": "D:\\upload",
             "mac": "upload",
             "linux": "upload"
         },
@@ -89,8 +89,8 @@
         "defaultAuth": {
             "isDownloadable": true,
             "isUploadable": true,
-            "isDeletable": false,
-            "isUpdatable": false,
+            "isDeletable": true,
+            "isUpdatable": true,
             "isVisible": true
         },
         "orderBy": "id desc"
