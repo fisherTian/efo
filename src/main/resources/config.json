@@ -4,7 +4,7 @@
     },
     "global": {
         "uploadPath": {
-            "windows": "upload",
+            "windows": "D:\\upload",
             "mac": "upload",
             "linux": "upload"
         },
